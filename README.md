@@ -4,6 +4,8 @@
 [![Protocol](https://img.shields.io/badge/Protocol-RS485-orange.svg)]()
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-brightgreen.svg)]()
 
+EN Documentation : https://sensor-npk-arduino.superdocs.cloud/
+
 Deskripsi:
 Proyek ini memperlihatkan implementasi pembacaan nilai nutrisi tanah (N, P, K) menggunakan sensor NPK yang terhubung ke Arduino dan berkomunikasi melalui protokol RS485. Kode Arduino mengelola komunikasi RS485, pembacaan nilai sensor, kalibrasi sederhana, dan output ke Serial Monitor untuk logging atau integrasi ke perangkat lain (PLC/gateway).
 
