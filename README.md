@@ -95,5 +95,3 @@ Integrasi & Pengembangan lebih lanjut
 - Simpan data ke SD card untuk logging.
 
 
-Kontak
-Jika butuh bantuan menyesuaikan README atau sketch sesuai model sensor NPK tertentu, beri tahu tipe sensor dan sketch yang dipakai — saya bantu sesuaikan wiring, konfigurasi, dan contoh penggunaan.
